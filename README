@@ -1,3 +1,6 @@
-This is a two part project the hardware accelerator and the SVM
-See zybo_z7_20_base_2021_1 for hardware acc and SVM for the support vector machine
+This is a two part project the hardware accelerator and the SVM (Support Vector Machine)
+__________________________________________________________________________________________________________
+See https://drive.google.com/file/d/1VivxzzToSJX-qEOFDB4_0-g1f2yYmwHc/view?usp=sharing for Hardware and Software (Project Files Are Too Large)
+SVM for the support vector machine files are located on the above Git-Repo
+
 Project Demo https://studio.youtube.com/channel/UC6IRb_tJq9GhaEpJo1baCsg
